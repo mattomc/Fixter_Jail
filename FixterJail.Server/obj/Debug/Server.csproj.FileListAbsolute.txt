@@ -1,0 +1,14 @@
+C:\Users\MattoMC\Downloads\FixterJail-master\FixterJail.Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\MattoMC\Downloads\FixterJail-master\FixterJail.Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\MattoMC\Downloads\FixterJail-master\FixterJail.Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\MattoMC\Downloads\FixterJail-master\dlls\UDF.jail.server.net.dll
+C:\Users\MattoMC\Downloads\FixterJail-master\dlls\UDF.jail.server.net.pdb
+C:\Users\MattoMC\Downloads\FixterJail-master\FixterJail.Server\obj\Debug\UDF.jail.server.net.dll
+C:\Users\MattoMC\Downloads\FixterJail-master\FixterJail.Server\obj\Debug\UDF.jail.server.net.pdb
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\dlls\Fixter.jail.server.net.dll
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\dlls\Fixter.jail.server.net.pdb
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\FixterJail.Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\FixterJail.Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\FixterJail.Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\FixterJail.Server\obj\Debug\Fixter.jail.server.net.dll
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\FixterJail.Server\obj\Debug\Fixter.jail.server.net.pdb

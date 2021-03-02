@@ -1,0 +1,20 @@
+C:\Users\MattoMC\Downloads\FixterJail-master\Fixter.Jail.Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\MattoMC\Downloads\FixterJail-master\Fixter.Jail.Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\MattoMC\Downloads\FixterJail-master\dlls\ui\app.js
+C:\Users\MattoMC\Downloads\FixterJail-master\dlls\ui\index.html
+C:\Users\MattoMC\Downloads\FixterJail-master\dlls\JailNUIHelper.lua
+C:\Users\MattoMC\Downloads\FixterJail-master\Fixter.Jail.Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\MattoMC\Downloads\FixterJail-master\dlls\UDF.jail.client.net.dll
+C:\Users\MattoMC\Downloads\FixterJail-master\dlls\UDF.jail.client.net.pdb
+C:\Users\MattoMC\Downloads\FixterJail-master\Fixter.Jail.Client\obj\Debug\UDF.jail.client.net.dll
+C:\Users\MattoMC\Downloads\FixterJail-master\Fixter.Jail.Client\obj\Debug\UDF.jail.client.net.pdb
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\dlls\ui\app.js
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\dlls\ui\index.html
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\dlls\JailNUIHelper.lua
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\Fixter.Jail.Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\Fixter.Jail.Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\Fixter.Jail.Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\dlls\Fixter.jail.client.net.dll
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\dlls\Fixter.jail.client.net.pdb
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\Fixter.Jail.Client\obj\Debug\Fixter.jail.client.net.dll
+C:\Users\MattoMC\Downloads\FixterJail-master - Copy\Fixter.Jail.Client\obj\Debug\Fixter.jail.client.net.pdb
