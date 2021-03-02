@@ -31,7 +31,7 @@ function exampleButton() {
 	var jailid = $("#enterid").val()
 
 	clearAllFields();
-	$.post("http://safr_jail/jailNuiCallback", JSON.stringify({
+	$.post("http://FixterJail/jailNuiCallback", JSON.stringify({
 		 time: jailtime,
 		 reason: jailreason,
 		 id : jailid
@@ -68,7 +68,7 @@ function closeUI() {
 	$("#pwdErrorPage").css('display', "none");	
 
 	clearAllFields();
-	$.post('http://safr_jail/closeUI', JSON.stringify({}));
+	$.post('http://FixterJail/closeUI', JSON.stringify({}));
 }
 
 function clearAllFields() {

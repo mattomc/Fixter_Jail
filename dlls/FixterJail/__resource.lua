@@ -3,10 +3,10 @@ resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 ui_page('ui/index.html')
 
 client_scripts {
-	"UDF.jail.client.net.dll",
+	"Fixter.jail.Client.net.dll",
 	"JailNUIHelper.lua"
 } 
-server_script "UDF.jail.server.net.dll"
+server_script "Fixter.jail.Server.net.dll"
 
 files {
 	'ui/index.html',
